@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/bio-project/static/css/main.e31f589e.css",
-    "main.js": "/bio-project/static/js/main.920ccf51.js",
+    "main.js": "/bio-project/static/js/main.5d3217fb.js",
     "static/js/787.28cb0dcd.chunk.js": "/bio-project/static/js/787.28cb0dcd.chunk.js",
     "static/media/dna-spiral.gif": "/bio-project/static/media/dna-spiral.fe0de02358f360f66c81.gif",
     "static/media/logo.svg": "/bio-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/bio-project/index.html",
     "main.e31f589e.css.map": "/bio-project/static/css/main.e31f589e.css.map",
-    "main.920ccf51.js.map": "/bio-project/static/js/main.920ccf51.js.map",
+    "main.5d3217fb.js.map": "/bio-project/static/js/main.5d3217fb.js.map",
     "787.28cb0dcd.chunk.js.map": "/bio-project/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e31f589e.css",
-    "static/js/main.920ccf51.js"
+    "static/js/main.5d3217fb.js"
   ]
 }
